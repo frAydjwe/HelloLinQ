@@ -1,0 +1,32 @@
+C:\Users\Nono\Google Drive\EPSI 1\DotNet et CSharp\Semestre 2\Ateliers\Atelier 5\atelier5\atelier5\bin\Debug\atelier5.exe.config
+C:\Users\Nono\Google Drive\EPSI 1\DotNet et CSharp\Semestre 2\Ateliers\Atelier 5\atelier5\atelier5\bin\Debug\atelier5.exe
+C:\Users\Nono\Google Drive\EPSI 1\DotNet et CSharp\Semestre 2\Ateliers\Atelier 5\atelier5\atelier5\bin\Debug\atelier5.pdb
+C:\Users\Nono\Google Drive\EPSI 1\DotNet et CSharp\Semestre 2\Ateliers\Atelier 5\atelier5\atelier5\obj\x86\Debug\View\MaVue1.baml
+C:\Users\Nono\Google Drive\EPSI 1\DotNet et CSharp\Semestre 2\Ateliers\Atelier 5\atelier5\atelier5\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Nono\Google Drive\EPSI 1\DotNet et CSharp\Semestre 2\Ateliers\Atelier 5\atelier5\atelier5\obj\x86\Debug\View\MaVue1.g.cs
+C:\Users\Nono\Google Drive\EPSI 1\DotNet et CSharp\Semestre 2\Ateliers\Atelier 5\atelier5\atelier5\obj\x86\Debug\App.g.cs
+C:\Users\Nono\Google Drive\EPSI 1\DotNet et CSharp\Semestre 2\Ateliers\Atelier 5\atelier5\atelier5\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nono\Google Drive\EPSI 1\DotNet et CSharp\Semestre 2\Ateliers\Atelier 5\atelier5\atelier5\obj\x86\Debug\atelier5_MarkupCompile.cache
+C:\Users\Nono\Google Drive\EPSI 1\DotNet et CSharp\Semestre 2\Ateliers\Atelier 5\atelier5\atelier5\obj\x86\Debug\atelier5_MarkupCompile.lref
+C:\Users\Nono\Google Drive\EPSI 1\DotNet et CSharp\Semestre 2\Ateliers\Atelier 5\atelier5\atelier5\obj\x86\Debug\MainWindow.baml
+C:\Users\Nono\Google Drive\EPSI 1\DotNet et CSharp\Semestre 2\Ateliers\Atelier 5\atelier5\atelier5\obj\x86\Debug\atelier5.g.resources
+C:\Users\Nono\Google Drive\EPSI 1\DotNet et CSharp\Semestre 2\Ateliers\Atelier 5\atelier5\atelier5\obj\x86\Debug\atelier5.Properties.Resources.resources
+C:\Users\Nono\Google Drive\EPSI 1\DotNet et CSharp\Semestre 2\Ateliers\Atelier 5\atelier5\atelier5\obj\x86\Debug\atelier5.csproj.GenerateResource.Cache
+C:\Users\Nono\Google Drive\EPSI 1\DotNet et CSharp\Semestre 2\Ateliers\Atelier 5\atelier5\atelier5\obj\x86\Debug\atelier5.exe
+C:\Users\Nono\Google Drive\EPSI 1\DotNet et CSharp\Semestre 2\Ateliers\Atelier 5\atelier5\atelier5\obj\x86\Debug\atelier5.pdb
+C:\Users\Frédéric BARAILLON\Desktop\atelier5\atelier5\bin\Debug\atelier5.exe.config
+C:\Users\Frédéric BARAILLON\Desktop\atelier5\atelier5\obj\x86\Debug\atelier5.exe
+C:\Users\Frédéric BARAILLON\Desktop\atelier5\atelier5\obj\x86\Debug\atelier5.pdb
+C:\Users\Frédéric BARAILLON\Desktop\atelier5\atelier5\bin\Debug\atelier5.exe
+C:\Users\Frédéric BARAILLON\Desktop\atelier5\atelier5\bin\Debug\atelier5.pdb
+C:\Users\Frédéric BARAILLON\Desktop\atelier5\atelier5\obj\x86\Debug\View\MaVue1.baml
+C:\Users\Frédéric BARAILLON\Desktop\atelier5\atelier5\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Frédéric BARAILLON\Desktop\atelier5\atelier5\obj\x86\Debug\View\MaVue1.g.cs
+C:\Users\Frédéric BARAILLON\Desktop\atelier5\atelier5\obj\x86\Debug\App.g.cs
+C:\Users\Frédéric BARAILLON\Desktop\atelier5\atelier5\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Frédéric BARAILLON\Desktop\atelier5\atelier5\obj\x86\Debug\atelier5_MarkupCompile.cache
+C:\Users\Frédéric BARAILLON\Desktop\atelier5\atelier5\obj\x86\Debug\atelier5_MarkupCompile.lref
+C:\Users\Frédéric BARAILLON\Desktop\atelier5\atelier5\obj\x86\Debug\MainWindow.baml
+C:\Users\Frédéric BARAILLON\Desktop\atelier5\atelier5\obj\x86\Debug\atelier5.g.resources
+C:\Users\Frédéric BARAILLON\Desktop\atelier5\atelier5\obj\x86\Debug\atelier5.Properties.Resources.resources
+C:\Users\Frédéric BARAILLON\Desktop\atelier5\atelier5\obj\x86\Debug\atelier5.csproj.GenerateResource.Cache
